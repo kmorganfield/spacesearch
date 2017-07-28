@@ -32,7 +32,8 @@ function satelliteImage() {
         satelliteimg.setAttribute("class", "card-img-top");
         satelliteimg.setAttribute("alt", "Card image cap");
         satelliteimg.setAttribute("src", imagePath)
-        satelliteimg.style.height = "100px"
+        satelliteimg.style.height = "400px"
+        satelliteimg.style.width = "275px"
         satelliteimg.style.paddingTop = "5%";
         satelliteimg.style.paddingBottom = "5%";
         satelliteimg.style.display = "block";
